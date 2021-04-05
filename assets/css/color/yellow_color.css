@@ -1,0 +1,214 @@
+.el_img_overlay a:hover{
+    color:#18ba60;
+}
+.el_blog_content h2 a:hover{
+    color:#18ba60;
+}
+.el_button{
+	background: #f69d01;
+}
+.el_button:before{
+	background: #f69d01;	
+}
+.el_button:after{
+	background: #f69d01;	
+}
+.el_banner_caption .el_button{
+	border:2px solid #f69d01;
+}
+.el_banner_caption .el_button:hover{
+	border:2px solid #f69d01;
+}
+.el_navigation_menu ul li:hover a{
+	color:#f69d01;
+}
+.el_navigation_menu ul li a i{
+	color:#f69d01;
+}
+.el_navigation_menu ul li a.active{
+	color:#f69d01;
+}
+.el_navigation_menu ul li .sub-menu li a{
+	color:#f69d01;
+}
+.el_navigation_menu ul li .sub-menu li a:after{
+    border-right: 12px solid #f69d01;
+}
+.el_navigation_menu ul li .sub-menu li a.active:after{
+    border-right: 12px solid #f69d01;
+}
+.el_about_caption ul li i{
+	color:#f69d01;
+}
+.el_counter_caption i{
+    border: 2px solid #f69d01;
+    background:#f69d01;
+}
+.el_team_overlay h4{
+	color:#f69d01;
+}
+.el_team_overlay a i:hover{
+	color:#f69d01;
+}
+.el_service_caption:before{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: 50%;
+    height: 2px;
+    width: 0;
+    background: #f69d01;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.el_service_caption:after{
+    background: #f69d01;
+}
+.el_service_caption .el_service_icon{
+    color: #f69d01;
+}
+.el_service_caption:hover h2{
+	color:#f69d01;
+}
+.el_service_caption:hover .el_service_icon{
+    border:2px solid #f69d01;
+    background:#f69d01;
+}
+.el_service_caption .el_button{
+	background:#f69d01;
+}
+.el_service_caption .el_button:hover{
+	color:#f69d01;
+}
+.el_pricing_header h1{
+	background:#f69d01;
+}
+.el_pricing_footer .el_button{
+	background:#f69d01;
+}
+.el_pricing_footer .el_button:hover{
+	color:#f69d01;
+}
+.el_img_overlay a i{
+	color:#f69d01;
+}
+.el_blog_content .blog_button{
+    background: #f69d01;
+    border:2px solid #f69d01;
+}
+.el_blog_content .blog_button:hover{
+	color:#f69d01;
+}
+.el_testimonial_content:hover h5 a{
+	color:#f69d01;
+}
+.rangeslider__fill{
+	background:#f69d01;
+}
+.rangeslider__handle {
+	background:#f69d01;
+}
+.el_form button{
+	border:2px solid #f69d01;
+}
+.panel-heading{
+	border:1px solid #f69d01;
+}
+.panel-heading a[aria-expanded="true"]{
+	background:#f69d01;
+}
+.widget-title{ 
+	border-bottom:2px solid #f69d01;
+}
+.widget.contact button{
+	border:2px solid #f69d01;
+}
+.widget.text-widget ul li a i{
+	color:#f69d01;
+}
+.widget.text-widget ul li i{
+	color:#f69d01;
+}
+.el_footer_icon i{
+    border: 2px solid #f69d01;
+}
+.el_footer_caption:hover .el_footer_icon i{
+	background:#f69d01;
+}
+.el_page_title_caption ul li{
+	color:#f69d01;
+}
+.el_doc_caption h2{
+	background: #f69d01;
+}
+.el_doc_caption ul li i{
+	color:#f69d01;
+}
+.el_contact_form .el_button:hover{
+	color:#f69d01;
+}
+.el_contact_content:before{
+    background: #f69d01;
+}
+.el_contact_content:after{
+    background: #f69d01;
+}
+.el_contact_content .el_contact_icon{
+    color: #f69d01;
+}
+.el_contact_content:hover .el_contact_icon{
+	background:#f69d01;
+	border:2px solid #f69d01;
+}
+.widget.widget_search form i{
+    background: #f69d01;
+}
+.widget.widget_categories ul li a:hover{
+	color:#f69d01;
+}
+.widget.widget_categories ul li a i{
+	color:#f69d01;
+}
+.widget.widget_archives ul li a:hover{
+	color:#f69d01;
+}
+.widget.widget_archives ul li a i{;
+	color:#f69d01;
+}
+.widget.widget_tags a{
+    background: #f69d01;
+    border:2px solid #f69d01;
+}
+.widget.widget_tags a:hover{
+	color:#f69d01;
+}
+.el_blog_item_content ul li i{
+	color:#f69d01;
+}
+.el_blog_item_content blockquote{
+    border-left: 5px solid #f69d01;
+}
+.el_comment_text h3 a:hover{
+	color:#f69d01;
+}
+.el_form_group .el_button{
+	background:#f69d01;
+}
+.el_form_group .el_button:hover{
+	color:#f69d01;
+}
+.widget.text-widget ul li a:hover{
+    color:#f69d01;
+}
+.el_footer_content p a:hover{
+    color:#f69d01;
+}
+.el_img_overlay a:hover{
+    color:#f69d01;
+}
+.el_blog_content h2 a:hover{
+    color:#f69d01;
+}
